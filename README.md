@@ -30,6 +30,12 @@ First dumped draft
 - https://twitter.com/henrikkniberg
 - https://twitter.com/andreaprovaglio
 
+## Better Software, better teams
+- https://twitter.com/flowchainsensei
+- https://twitter.com/allenholub
+- https://twitter.com/neil_killick
+
+
 ## RH
 - https://twitter.com/PauGarric
 - https://twitter.com/Happy_Laurence
@@ -37,16 +43,3 @@ First dumped draft
 ## Conference
 - https://twitter.com/FlowConFR #Product #Lean #Flow #Agile #Dev
 
-## Team beNext
-- https://twitter.com/Nils_Back 
-- https://twitter.com/pablopernot
-- https://twitter.com/llemolgat
-- https://twitter.com/ddreptate
-- https://twitter.com/FleurSaillofest
-- https://twitter.com/PauGarric
-- https://twitter.com/GrizzlyYus
-- https://twitter.com/MaximeLECOQ4
-- https://twitter.com/_bnaude
-- https://twitter.com/hlneDm
-- https://twitter.com/AlexandreThib
-- https://twitter.com/ygrenzinger
