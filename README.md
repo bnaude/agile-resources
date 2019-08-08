@@ -21,6 +21,13 @@ First dumped draft
 - https://twitter.com/ByondSM
 - https://twitter.com/duarte_vasco
 - https://twitter.com/CoachAgileTeams
+- https://twitter.com/geoffcwatts
+
+
+## Better Software, better teams
+- https://twitter.com/flowchainsensei
+- https://twitter.com/allenholub
+- https://twitter.com/neil_killick
 
 ## Organisation Coaching & Management
 - https://twitter.com/jboogie
@@ -29,12 +36,6 @@ First dumped draft
 - https://twitter.com/simonsinek
 - https://twitter.com/henrikkniberg
 - https://twitter.com/andreaprovaglio
-
-## Better Software, better teams
-- https://twitter.com/flowchainsensei
-- https://twitter.com/allenholub
-- https://twitter.com/neil_killick
-
 
 ## RH
 - https://twitter.com/PauGarric
