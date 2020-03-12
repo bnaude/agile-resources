@@ -31,7 +31,7 @@ Agile, Product Ownership, Coaching, Mentoring, UX, Dev, and so on
 - https://twitter.com/neil_killick
 - https://twitter.com/tottinge
 - https://twitter.com/allenholub
-- https://twitter.com/ntcoding
+- https://twitter.com/ntcoding #DDD #SocioTechnical
 
 ## Organisation Coaching & Management & Leadership
 - https://twitter.com/jboogie
@@ -40,8 +40,8 @@ Agile, Product Ownership, Coaching, Mentoring, UX, Dev, and so on
 - https://twitter.com/simonsinek
 - https://twitter.com/henrikkniberg
 - https://twitter.com/andreaprovaglio
-- https://twitter.com/jasonfried
-- https://twitter.com/dhh
+- https://twitter.com/jasonfried #basecamp #remotework
+- https://twitter.com/dhh #basecamp #remotework
 
 ## Flow
 - https://twitter.com/fgoulding
