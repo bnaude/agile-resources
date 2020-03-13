@@ -11,7 +11,7 @@ Agile, Product Ownership, Coaching, Mentoring, UX, Dev, and so on
 - https://twitter.com/unclebobmartin
 - https://twitter.com/martinfowler
 
-## Product Ownership - Innovation
+## Product Ownership - Product Management - Innovation
 - https://twitter.com/johncutlefish
 - https://twitter.com/chrisparola
 - https://twitter.com/SchoolOfPO
