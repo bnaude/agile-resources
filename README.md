@@ -23,6 +23,7 @@ Agile, Product Ownership, Coaching, Mentoring, UX, Dev, and so on
 - https://twitter.com/duarte_vasco
 - https://twitter.com/CoachAgileTeams
 - https://twitter.com/geoffcwatts
+- https://twitter.com/liberators_the
 
 
 ## Better Software, better teams
