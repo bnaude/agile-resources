@@ -5,7 +5,6 @@ Agile, Product Ownership, Coaching, Mentoring, UX, Dev, and so on
 ## Agile (a bit of everything)
 - https://twitter.com/AgeOfProduct
 - https://theliberators.com/
-- 
 
 ## Dev Craftsmanship
 - https://twitter.com/sandromancuso
