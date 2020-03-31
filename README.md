@@ -1,9 +1,11 @@
-# Twitter Accounts
+# Agile Resources - Twitter accounts and blogs
 Interesting categorized Twitter accounts to follow
 Agile, Product Ownership, Coaching, Mentoring, UX, Dev, and so on
 
 ## Agile (a bit of everything)
 - https://twitter.com/AgeOfProduct
+- https://theliberators.com/
+- 
 
 ## Dev Craftsmanship
 - https://twitter.com/sandromancuso
@@ -43,6 +45,8 @@ Agile, Product Ownership, Coaching, Mentoring, UX, Dev, and so on
 - https://twitter.com/andreaprovaglio
 - https://twitter.com/jasonfried #basecamp #remotework
 - https://twitter.com/dhh #basecamp #remotework
+- https://www.agile-moose.com/blog - Blog de Bob Galen (pensées perso)
+- https://rgalen.com/agile-training-news - Blog de Bob Galen (encore, mais sur son entreprise)
 
 ## Flow
 - https://twitter.com/fgoulding
