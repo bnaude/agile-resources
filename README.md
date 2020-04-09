@@ -2,9 +2,16 @@
 Interesting categorized Twitter accounts to follow
 Agile, Product Ownership, Coaching, Mentoring, UX, Dev, and so on
 
+## Podcasts
+- https://scrum-master-toolbox.org/ (EN) - Tenu par Vasco Duarte - Coaching & Scrum Mastering
+- https://www.meta-cast.com/ (EN) - Podcast de Bob Galen, traite des sujets liés Coachs & Coachings
+- https://podcasts.apple.com/fr/podcast/le-podcast-agile/id1205939622 - Podcast Agile de Leo Davesne
+
 ## Agile (a bit of everything)
 - https://twitter.com/AgeOfProduct
+- https://age-of-product.com/ - Le blog de Age Of Product : Agile, Scrum, Product, Lean
 - https://theliberators.com/
+
 
 ## Dev Craftsmanship
 - https://twitter.com/sandromancuso
