@@ -14,9 +14,10 @@ Agile, Product Ownership, Coaching, Mentoring, UX, Dev, and so on
 
 ## Dev Craftsmanship
 - https://twitter.com/sandromancuso
-- https://twitter.com/ygrenzinger
 - https://twitter.com/unclebobmartin
 - https://twitter.com/martinfowler
+- https://twitter.com/tpierrain
+- https://twitter.com/ntcoding - DDD
 
 ## Product Ownership - Product Management - Innovation - Design
 - https://twitter.com/johncutlefish
