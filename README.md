@@ -19,12 +19,13 @@ Agile, Product Ownership, Coaching, Mentoring, UX, Dev, and so on
 - https://twitter.com/unclebobmartin
 - https://twitter.com/martinfowler
 
-## Product Ownership - Product Management - Innovation
+## Product Ownership - Product Management - Innovation - Design
 - https://twitter.com/johncutlefish
 - https://twitter.com/chrisparola
 - https://twitter.com/SchoolOfPO
 - https://twitter.com/ashmaurya 
 - https://twitter.com/gojkoadzic
+- https://twitter.com/LaProductConf
 
 ## Team Coaching
 - https://twitter.com/ByondSM
@@ -63,6 +64,8 @@ Agile, Product Ownership, Coaching, Mentoring, UX, Dev, and so on
 - https://twitter.com/PauGarric
 - https://twitter.com/Happy_Laurence
 
-## Conference
+## Conferences
 - https://twitter.com/FlowConFR #Product #Lean #Flow #Agile #Dev
+- https://twitter.com/LaProductConf #Product #Design
+- https://twitter.com/SchoolOfPO #Product #Design
 
