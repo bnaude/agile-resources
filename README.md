@@ -12,7 +12,6 @@ Agile, Product Ownership, Coaching, Mentoring, UX, Dev, and so on
 - https://age-of-product.com/ - Le blog de Age Of Product : Agile, Scrum, Product, Lean
 - https://theliberators.com/
 
-
 ## Dev Craftsmanship
 - https://twitter.com/sandromancuso
 - https://twitter.com/ygrenzinger
@@ -34,7 +33,6 @@ Agile, Product Ownership, Coaching, Mentoring, UX, Dev, and so on
 - https://twitter.com/geoffcwatts
 - https://twitter.com/liberators_the
 
-
 ## Better Software, better teams
 - https://twitter.com/flowchainsensei
 - https://twitter.com/allenholub
@@ -54,6 +52,7 @@ Agile, Product Ownership, Coaching, Mentoring, UX, Dev, and so on
 - https://twitter.com/dhh #basecamp #remotework
 - https://www.agile-moose.com/blog - Blog de Bob Galen (pensées perso)
 - https://rgalen.com/agile-training-news - Blog de Bob Galen (encore, mais sur son entreprise)
+- https://pablopernot.fr/ - Blog de Pablo Pernot (Coaching, Leadership, Introspection, Posture)
 
 ## Flow
 - https://twitter.com/fgoulding
@@ -68,4 +67,3 @@ Agile, Product Ownership, Coaching, Mentoring, UX, Dev, and so on
 - https://twitter.com/FlowConFR #Product #Lean #Flow #Agile #Dev
 - https://twitter.com/LaProductConf #Product #Design
 - https://twitter.com/SchoolOfPO #Product #Design
-
