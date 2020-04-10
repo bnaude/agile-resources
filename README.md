@@ -7,10 +7,15 @@ Agile, Product Ownership, Coaching, Mentoring, UX, Dev, and so on
 - https://www.meta-cast.com/ (EN) - Podcast de Bob Galen, traite des sujets liés Coachs & Coachings
 - https://podcasts.apple.com/fr/podcast/le-podcast-agile/id1205939622 - Podcast Agile de Leo Davesne
 
-## Agile (a bit of everything)
+## Agile (a bit of everything) & Blogs
 - https://twitter.com/AgeOfProduct
 - https://age-of-product.com/ - Le blog de Age Of Product : Agile, Scrum, Product, Lean
 - https://theliberators.com/
+- https://www.mountaingoatsoftware.com/blog - Mike Cohn’s Blog
+- https://www.estherderby.com/blog/
+- https://www.lyssaadkins.com/blog
+- https://dannorth.net/blog/
+- https://martinfowler.com/agile.html
 
 ## Dev Craftsmanship
 - https://twitter.com/sandromancuso
