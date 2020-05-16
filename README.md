@@ -31,6 +31,7 @@ Agile, Product Ownership, Coaching, Mentoring, UX, Dev, and so on
 - https://twitter.com/ashmaurya 
 - https://twitter.com/gojkoadzic
 - https://twitter.com/LaProductConf
+- https://twitter.com/lissijean #ProductManagement
 
 ## Team Coaching
 - https://twitter.com/ByondSM
