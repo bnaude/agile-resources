@@ -64,6 +64,7 @@ Agile, Product Ownership, Coaching, Mentoring, UX, Dev, and so on
 - https://twitter.com/fgoulding
 - https://twitter.com/alshalloway
 - https://twitter.com/Michael_Balle
+- https://twitter.com/danvacanti #Kanban
 
 ## RH
 - https://twitter.com/PauGarric
