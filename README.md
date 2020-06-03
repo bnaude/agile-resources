@@ -33,7 +33,6 @@ Agile, Product Ownership, Coaching, Mentoring, UX, Dev, and so on
 - https://twitter.com/LaProductConf
 - https://twitter.com/lissijean #ProductManagement
 - https://twitter.com/cagan #Prodmgmt #ProdStrategy
-- https://twitter.com/lissijean #Prodmgmt
 - https://twitter.com/ttorres #ProductDiscovery
 
 ## Team Coaching
